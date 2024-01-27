@@ -54,6 +54,8 @@ Finally, after this whole dataset was cleaned and manipulated to be best analyze
 
 ## Data Analysis
 
+View interactive tableau viz [here](https://public.tableau.com/views/AttritionAnalysis_16969795464980/AttritionAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 For the analysis portion of this project, I chose to use Tableau to visualize the data. I uploaded the cleaned data from SSMS as a CSV file. Using Tableau I created charts showing how different factors affected the attrition rate. These charts include overtime work, work-life balance satisfaction, gender, generation, annual income, and department. 
 
 ![image](https://github.com/ashleybonin/Attrition-Data-Analysis/assets/141379455/99e9c05f-3d48-4721-8913-022feeb47bf5)
